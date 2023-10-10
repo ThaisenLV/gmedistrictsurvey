@@ -6,6 +6,21 @@ st.set_page_config(layout="wide")
 st.title('GME District Field Staff Survey')
 df = pd.read_csv('data.csv')
 
+
+multi = '''You can choose up to four (4) comparisions, your selections will be graphed below.
+
+For each selection chose the following: 
+- **Type**: this can either be from an aggregation or an individual
+- **Group**: this is the group or person you want to chart
+- **Value**: this is either 'Actual' or 'Ideal'
+
+Actuals are from the specific District Manager estimations of their current time allocation. These may not be available if the group or individual is not at the district level.
+
+Ideals are derived from the prioritization excersise.
+##
+'''
+st.markdown(multi)
+
 def getFilterValues(df,f,f1=".*",f2='.*'):
     if f1==None or f2==None:
         return []
