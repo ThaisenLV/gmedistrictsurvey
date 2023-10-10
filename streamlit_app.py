@@ -21,7 +21,7 @@ def generateChart(df,list_sort):
     dfs = dfs.sort_values('Value',ascending=False)
     
     cat_sort = dfs['Label'].to_list()
-    list_sort = list_sort.reverse()
+    #list_sort = list_sort.reverse()
     
     df['Value'] = df['Value'].round(1)
     bars = alt.Chart().mark_bar().encode(
