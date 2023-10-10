@@ -1,0 +1,441 @@
+Label,Item Number,Filter1,Filter2,Filter3,Value
+Communicate and Coordinate with Corporate Office,1,Aggregation,Overall,Ideal,2.34106
+Communicate and Coordinate with Corporate Office,1,Aggregation,Leadership,Ideal,0.18953
+Communicate and Coordinate with Corporate Office,1,Aggregation,Regions,Ideal,0.41173
+Communicate and Coordinate with Corporate Office,1,Aggregation,Districts,Ideal,2.96981
+Communicate and Coordinate with Corporate Office,1,Aggregation,East,Ideal,2.18691
+Communicate and Coordinate with Corporate Office,1,Aggregation,West,Ideal,3.72774
+Communicate and Coordinate with Corporate Office,1,Aggregation,Districts,Actual,6.461538462
+Communicate and Coordinate with Corporate Office,1,Aggregation,East,Actual,5.571428571
+Communicate and Coordinate with Corporate Office,1,Aggregation,West,Actual,7
+Communicate and Coordinate with Corporate Office,1,Individual,Bales,Ideal,9.24792
+Communicate and Coordinate with Corporate Office,1,Individual,Becker,Ideal,2.3803
+Communicate and Coordinate with Corporate Office,1,Individual,Bejjani,Ideal,0.98387
+Communicate and Coordinate with Corporate Office,1,Individual,Brandt,Ideal,0.06322
+Communicate and Coordinate with Corporate Office,1,Individual,Brockett,Ideal,3.85602
+Communicate and Coordinate with Corporate Office,1,Individual,Drugmand,Ideal,0.05112
+Communicate and Coordinate with Corporate Office,1,Individual,Egan,Ideal,0.48364
+Communicate and Coordinate with Corporate Office,1,Individual,Fawcett,Ideal,1.9967
+Communicate and Coordinate with Corporate Office,1,Individual,Funk,Ideal,1.14501
+Communicate and Coordinate with Corporate Office,1,Individual,Holm,Ideal,1.53116
+Communicate and Coordinate with Corporate Office,1,Individual,Knipfer,Ideal,2.39605
+Communicate and Coordinate with Corporate Office,1,Individual,O'Connell,Ideal,0.10127
+Communicate and Coordinate with Corporate Office,1,Individual,Reynolds,Ideal,0.06782
+Communicate and Coordinate with Corporate Office,1,Individual,Ross,Ideal,0.05916
+Communicate and Coordinate with Corporate Office,1,Individual,Ryan,Ideal,2.32835
+Communicate and Coordinate with Corporate Office,1,Individual,Wernsman,Ideal,1.97788
+Communicate and Coordinate with Corporate Office,1,Individual,Westbrook,Ideal,4.18083
+Communicate and Coordinate with Corporate Office,1,Individual,Williamson,Ideal,0.43664
+Communicate and Coordinate with Corporate Office,1,Individual,Bales,Actual,7
+Communicate and Coordinate with Corporate Office,1,Individual,Bejjani,Actual,5
+Communicate and Coordinate with Corporate Office,1,Individual,Brandt,Actual,5
+Communicate and Coordinate with Corporate Office,1,Individual,Brockett,Actual,10
+Communicate and Coordinate with Corporate Office,1,Individual,Egan,Actual,5
+Communicate and Coordinate with Corporate Office,1,Individual,Fawcett,Actual,8
+Communicate and Coordinate with Corporate Office,1,Individual,Funk,Actual,5
+Communicate and Coordinate with Corporate Office,1,Individual,Holm,Actual,2
+Communicate and Coordinate with Corporate Office,1,Individual,O'Connell,Actual,5
+Communicate and Coordinate with Corporate Office,1,Individual,Ryan,Actual,2
+Communicate and Coordinate with Corporate Office,1,Individual,Wernsman,Actual,5
+Communicate and Coordinate with Corporate Office,1,Individual,Westbrook,Actual,10
+Communicate and Coordinate with Corporate Office,1,Individual,Williamson,Actual,15
+Create District Strategy,2,Aggregation,Overall,Ideal,11.30509
+Create District Strategy,2,Aggregation,Leadership,Ideal,8.1532
+Create District Strategy,2,Aggregation,Regions,Ideal,20.19375
+Create District Strategy,2,Aggregation,Districts,Ideal,10.9818
+Create District Strategy,2,Aggregation,East,Ideal,11.13835
+Create District Strategy,2,Aggregation,West,Ideal,10.75789
+Create District Strategy,2,Aggregation,Districts,Actual,8.615384615
+Create District Strategy,2,Aggregation,East,Actual,6.857142857
+Create District Strategy,2,Aggregation,West,Actual,8.8
+Create District Strategy,2,Individual,Bales,Ideal,1.12423
+Create District Strategy,2,Individual,Becker,Ideal,15.24556
+Create District Strategy,2,Individual,Bejjani,Ideal,6.35509
+Create District Strategy,2,Individual,Brandt,Ideal,20.77744
+Create District Strategy,2,Individual,Brockett,Ideal,18.80108
+Create District Strategy,2,Individual,Drugmand,Ideal,14.53977
+Create District Strategy,2,Individual,Egan,Ideal,9.79174
+Create District Strategy,2,Individual,Fawcett,Ideal,16.3362
+Create District Strategy,2,Individual,Funk,Ideal,7.34472
+Create District Strategy,2,Individual,Holm,Ideal,11.36539
+Create District Strategy,2,Individual,Knipfer,Ideal,5.04847
+Create District Strategy,2,Individual,O'Connell,Ideal,7.62337
+Create District Strategy,2,Individual,Reynolds,Ideal,20.55915
+Create District Strategy,2,Individual,Ross,Ideal,5.15022
+Create District Strategy,2,Individual,Ryan,Ideal,20.17864
+Create District Strategy,2,Individual,Wernsman,Ideal,0.50421
+Create District Strategy,2,Individual,Westbrook,Ideal,18.53897
+Create District Strategy,2,Individual,Williamson,Ideal,2.5913
+Create District Strategy,2,Individual,Bales,Actual,5
+Create District Strategy,2,Individual,Bejjani,Actual,10
+Create District Strategy,2,Individual,Brandt,Actual,20
+Create District Strategy,2,Individual,Brockett,Actual,10
+Create District Strategy,2,Individual,Egan,Actual,3
+Create District Strategy,2,Individual,Fawcett,Actual,5
+Create District Strategy,2,Individual,Funk,Actual,5
+Create District Strategy,2,Individual,Holm,Actual,10
+Create District Strategy,2,Individual,O'Connell,Actual,10
+Create District Strategy,2,Individual,Ryan,Actual,4
+Create District Strategy,2,Individual,Wernsman,Actual,5
+Create District Strategy,2,Individual,Westbrook,Actual,20
+Create District Strategy,2,Individual,Williamson,Actual,5
+Cultivate Customer Relationships,3,Aggregation,Overall,Ideal,6.2537
+Cultivate Customer Relationships,3,Aggregation,Leadership,Ideal,0.68452
+Cultivate Customer Relationships,3,Aggregation,Regions,Ideal,1.31123
+Cultivate Customer Relationships,3,Aggregation,Districts,Ideal,7.74362
+Cultivate Customer Relationships,3,Aggregation,East,Ideal,7.5376
+Cultivate Customer Relationships,3,Aggregation,West,Ideal,8.21748
+Cultivate Customer Relationships,3,Aggregation,Districts,Actual,8
+Cultivate Customer Relationships,3,Aggregation,East,Actual,10.28571429
+Cultivate Customer Relationships,3,Aggregation,West,Actual,6.4
+Cultivate Customer Relationships,3,Individual,Bales,Ideal,16.24655
+Cultivate Customer Relationships,3,Individual,Becker,Ideal,2.69748
+Cultivate Customer Relationships,3,Individual,Bejjani,Ideal,19.90811
+Cultivate Customer Relationships,3,Individual,Brandt,Ideal,11.89547
+Cultivate Customer Relationships,3,Individual,Brockett,Ideal,0.07007
+Cultivate Customer Relationships,3,Individual,Drugmand,Ideal,1.84988
+Cultivate Customer Relationships,3,Individual,Egan,Ideal,8.61266
+Cultivate Customer Relationships,3,Individual,Fawcett,Ideal,1.96612
+Cultivate Customer Relationships,3,Individual,Funk,Ideal,5.78915
+Cultivate Customer Relationships,3,Individual,Holm,Ideal,2.43876
+Cultivate Customer Relationships,3,Individual,Knipfer,Ideal,0.46379
+Cultivate Customer Relationships,3,Individual,O'Connell,Ideal,13.77184
+Cultivate Customer Relationships,3,Individual,Reynolds,Ideal,0.62173
+Cultivate Customer Relationships,3,Individual,Ross,Ideal,1.30409
+Cultivate Customer Relationships,3,Individual,Ryan,Ideal,0.64486
+Cultivate Customer Relationships,3,Individual,Wernsman,Ideal,21.47628
+Cultivate Customer Relationships,3,Individual,Westbrook,Ideal,0.09706
+Cultivate Customer Relationships,3,Individual,Williamson,Ideal,18.1193
+Cultivate Customer Relationships,3,Individual,Bales,Actual,12
+Cultivate Customer Relationships,3,Individual,Bejjani,Actual,20
+Cultivate Customer Relationships,3,Individual,Brandt,Actual,15
+Cultivate Customer Relationships,3,Individual,Brockett,Actual,5
+Cultivate Customer Relationships,3,Individual,Egan,Actual,15
+Cultivate Customer Relationships,3,Individual,Fawcett,Actual,5
+Cultivate Customer Relationships,3,Individual,Funk,Actual,5
+Cultivate Customer Relationships,3,Individual,Holm,Actual,5
+Cultivate Customer Relationships,3,Individual,O'Connell,Actual,5
+Cultivate Customer Relationships,3,Individual,Ryan,Actual,2
+Cultivate Customer Relationships,3,Individual,Wernsman,Actual,10
+Cultivate Customer Relationships,3,Individual,Westbrook,Actual,0
+Cultivate Customer Relationships,3,Individual,Williamson,Actual,5
+Driving Appropriate Inventory,4,Aggregation,Overall,Ideal,10.57879
+Driving Appropriate Inventory,4,Aggregation,Leadership,Ideal,15.19714
+Driving Appropriate Inventory,4,Aggregation,Regions,Ideal,19.66895
+Driving Appropriate Inventory,4,Aggregation,Districts,Ideal,8.71619
+Driving Appropriate Inventory,4,Aggregation,East,Ideal,8.61209
+Driving Appropriate Inventory,4,Aggregation,West,Ideal,8.99593
+Driving Appropriate Inventory,4,Aggregation,Districts,Actual,11.46153846
+Driving Appropriate Inventory,4,Aggregation,East,Actual,9.714285714
+Driving Appropriate Inventory,4,Aggregation,West,Actual,14.6
+Driving Appropriate Inventory,4,Individual,Bales,Ideal,2.84797
+Driving Appropriate Inventory,4,Individual,Becker,Ideal,17.94977
+Driving Appropriate Inventory,4,Individual,Bejjani,Ideal,10.87402
+Driving Appropriate Inventory,4,Individual,Brandt,Ideal,13.48051
+Driving Appropriate Inventory,4,Individual,Brockett,Ideal,6.04241
+Driving Appropriate Inventory,4,Individual,Drugmand,Ideal,20.8207
+Driving Appropriate Inventory,4,Individual,Egan,Ideal,13.17959
+Driving Appropriate Inventory,4,Individual,Fawcett,Ideal,12.92095
+Driving Appropriate Inventory,4,Individual,Funk,Ideal,1.18672
+Driving Appropriate Inventory,4,Individual,Holm,Ideal,5.68085
+Driving Appropriate Inventory,4,Individual,Knipfer,Ideal,6.35012
+Driving Appropriate Inventory,4,Individual,O'Connell,Ideal,1.97426
+Driving Appropriate Inventory,4,Individual,Reynolds,Ideal,18.58654
+Driving Appropriate Inventory,4,Individual,Ross,Ideal,11.06949
+Driving Appropriate Inventory,4,Individual,Ryan,Ideal,6.67
+Driving Appropriate Inventory,4,Individual,Wernsman,Ideal,16.59901
+Driving Appropriate Inventory,4,Individual,Westbrook,Ideal,14.83559
+Driving Appropriate Inventory,4,Individual,Williamson,Ideal,1.43291
+Driving Appropriate Inventory,4,Individual,Bales,Actual,8
+Driving Appropriate Inventory,4,Individual,Bejjani,Actual,5
+Driving Appropriate Inventory,4,Individual,Brandt,Actual,15
+Driving Appropriate Inventory,4,Individual,Brockett,Actual,5
+Driving Appropriate Inventory,4,Individual,Egan,Actual,10
+Driving Appropriate Inventory,4,Individual,Fawcett,Actual,20
+Driving Appropriate Inventory,4,Individual,Funk,Actual,10
+Driving Appropriate Inventory,4,Individual,Holm,Actual,20
+Driving Appropriate Inventory,4,Individual,O'Connell,Actual,10
+Driving Appropriate Inventory,4,Individual,Ryan,Actual,18
+Driving Appropriate Inventory,4,Individual,Wernsman,Actual,10
+Driving Appropriate Inventory,4,Individual,Westbrook,Actual,8
+Driving Appropriate Inventory,4,Individual,Williamson,Actual,10
+Driving Branding,5,Aggregation,Overall,Ideal,5.9115
+Driving Branding,5,Aggregation,Leadership,Ideal,15.79832
+Driving Branding,5,Aggregation,Regions,Ideal,6.53441
+Driving Branding,5,Aggregation,Districts,Ideal,4.444
+Driving Branding,5,Aggregation,East,Ideal,5.09479
+Driving Branding,5,Aggregation,West,Ideal,3.19096
+Driving Branding,5,Aggregation,Districts,Actual,4.923076923
+Driving Branding,5,Aggregation,East,Actual,6.142857143
+Driving Branding,5,Aggregation,West,Actual,3.6
+Driving Branding,5,Individual,Bales,Ideal,0.4436
+Driving Branding,5,Individual,Becker,Ideal,9.86582
+Driving Branding,5,Individual,Bejjani,Ideal,0.13784
+Driving Branding,5,Individual,Brandt,Ideal,0.40156
+Driving Branding,5,Individual,Brockett,Ideal,13.05067
+Driving Branding,5,Individual,Drugmand,Ideal,6.99603
+Driving Branding,5,Individual,Egan,Ideal,6.19328
+Driving Branding,5,Individual,Fawcett,Ideal,3.90712
+Driving Branding,5,Individual,Funk,Ideal,2.10423
+Driving Branding,5,Individual,Holm,Ideal,19.09545
+Driving Branding,5,Individual,Knipfer,Ideal,21.34673
+Driving Branding,5,Individual,O'Connell,Ideal,1.7382
+Driving Branding,5,Individual,Reynolds,Ideal,5.55226
+Driving Branding,5,Individual,Ross,Ideal,17.62637
+Driving Branding,5,Individual,Ryan,Ideal,1.29189
+Driving Branding,5,Individual,Wernsman,Ideal,1.38872
+Driving Branding,5,Individual,Westbrook,Ideal,1.13405
+Driving Branding,5,Individual,Williamson,Ideal,1.44351
+Driving Branding,5,Individual,Bales,Actual,5
+Driving Branding,5,Individual,Bejjani,Actual,5
+Driving Branding,5,Individual,Brandt,Actual,0
+Driving Branding,5,Individual,Brockett,Actual,10
+Driving Branding,5,Individual,Egan,Actual,5
+Driving Branding,5,Individual,Fawcett,Actual,5
+Driving Branding,5,Individual,Funk,Actual,5
+Driving Branding,5,Individual,Holm,Actual,8
+Driving Branding,5,Individual,O'Connell,Actual,5
+Driving Branding,5,Individual,Ryan,Actual,3
+Driving Branding,5,Individual,Wernsman,Actual,5
+Driving Branding,5,Individual,Westbrook,Actual,3
+Driving Branding,5,Individual,Williamson,Actual,5
+Driving Sales Execution,6,Aggregation,Overall,Ideal,20.07114
+Driving Sales Execution,6,Aggregation,Leadership,Ideal,19.11826
+Driving Sales Execution,6,Aggregation,Regions,Ideal,22.52513
+Driving Sales Execution,6,Aggregation,Districts,Ideal,19.21272
+Driving Sales Execution,6,Aggregation,East,Ideal,18.47491
+Driving Sales Execution,6,Aggregation,West,Ideal,19.64354
+Driving Sales Execution,6,Aggregation,Districts,Actual,16.92307692
+Driving Sales Execution,6,Aggregation,East,Actual,17.14285714
+Driving Sales Execution,6,Aggregation,West,Actual,14
+Driving Sales Execution,6,Individual,Bales,Ideal,21.15025
+Driving Sales Execution,6,Individual,Becker,Ideal,21.72019
+Driving Sales Execution,6,Individual,Bejjani,Ideal,16.48773
+Driving Sales Execution,6,Individual,Brandt,Ideal,14.01434
+Driving Sales Execution,6,Individual,Brockett,Ideal,20.93449
+Driving Sales Execution,6,Individual,Drugmand,Ideal,20.9169
+Driving Sales Execution,6,Individual,Egan,Ideal,3.24988
+Driving Sales Execution,6,Individual,Fawcett,Ideal,20.42915
+Driving Sales Execution,6,Individual,Funk,Ideal,22.05629
+Driving Sales Execution,6,Individual,Holm,Ideal,21.36272
+Driving Sales Execution,6,Individual,Knipfer,Ideal,12.66131
+Driving Sales Execution,6,Individual,O'Connell,Ideal,17.02593
+Driving Sales Execution,6,Individual,Reynolds,Ideal,20.6299
+Driving Sales Execution,6,Individual,Ross,Ideal,22.36635
+Driving Sales Execution,6,Individual,Ryan,Ideal,21.43899
+Driving Sales Execution,6,Individual,Wernsman,Ideal,16.68513
+Driving Sales Execution,6,Individual,Westbrook,Ideal,20.71657
+Driving Sales Execution,6,Individual,Williamson,Ideal,22.58678
+Driving Sales Execution,6,Individual,Bales,Actual,20
+Driving Sales Execution,6,Individual,Bejjani,Actual,15
+Driving Sales Execution,6,Individual,Brandt,Actual,15
+Driving Sales Execution,6,Individual,Brockett,Actual,25
+Driving Sales Execution,6,Individual,Egan,Actual,5
+Driving Sales Execution,6,Individual,Fawcett,Actual,10
+Driving Sales Execution,6,Individual,Funk,Actual,20
+Driving Sales Execution,6,Individual,Holm,Actual,20
+Driving Sales Execution,6,Individual,O'Connell,Actual,15
+Driving Sales Execution,6,Individual,Ryan,Actual,15
+Driving Sales Execution,6,Individual,Wernsman,Actual,15
+Driving Sales Execution,6,Individual,Westbrook,Actual,30
+Driving Sales Execution,6,Individual,Williamson,Actual,15
+Driving Superior Dealer Operations,7,Aggregation,Overall,Ideal,11.40664
+Driving Superior Dealer Operations,7,Aggregation,Leadership,Ideal,7.08459
+Driving Superior Dealer Operations,7,Aggregation,Regions,Ideal,18.32623
+Driving Superior Dealer Operations,7,Aggregation,Districts,Ideal,11.35725
+Driving Superior Dealer Operations,7,Aggregation,East,Ideal,9.90975
+Driving Superior Dealer Operations,7,Aggregation,West,Ideal,12.43797
+Driving Superior Dealer Operations,7,Aggregation,Districts,Actual,8
+Driving Superior Dealer Operations,7,Aggregation,East,Actual,5.714285714
+Driving Superior Dealer Operations,7,Aggregation,West,Actual,11.4
+Driving Superior Dealer Operations,7,Individual,Bales,Ideal,18.07519
+Driving Superior Dealer Operations,7,Individual,Becker,Ideal,20.18555
+Driving Superior Dealer Operations,7,Individual,Bejjani,Ideal,10.63789
+Driving Superior Dealer Operations,7,Individual,Brandt,Ideal,12.02465
+Driving Superior Dealer Operations,7,Individual,Brockett,Ideal,0.3798
+Driving Superior Dealer Operations,7,Individual,Drugmand,Ideal,4.01592
+Driving Superior Dealer Operations,7,Individual,Egan,Ideal,2.29763
+Driving Superior Dealer Operations,7,Individual,Fawcett,Ideal,8.14218
+Driving Superior Dealer Operations,7,Individual,Funk,Ideal,11.98558
+Driving Superior Dealer Operations,7,Individual,Holm,Ideal,0.47589
+Driving Superior Dealer Operations,7,Individual,Knipfer,Ideal,18.21522
+Driving Superior Dealer Operations,7,Individual,O'Connell,Ideal,20.63825
+Driving Superior Dealer Operations,7,Individual,Reynolds,Ideal,14.82345
+Driving Superior Dealer Operations,7,Individual,Ross,Ideal,3.32253
+Driving Superior Dealer Operations,7,Individual,Ryan,Ideal,13.02797
+Driving Superior Dealer Operations,7,Individual,Wernsman,Ideal,11.33063
+Driving Superior Dealer Operations,7,Individual,Westbrook,Ideal,11.61303
+Driving Superior Dealer Operations,7,Individual,Williamson,Ideal,19.41631
+Driving Superior Dealer Operations,7,Individual,Bales,Actual,5
+Driving Superior Dealer Operations,7,Individual,Bejjani,Actual,10
+Driving Superior Dealer Operations,7,Individual,Brandt,Actual,5
+Driving Superior Dealer Operations,7,Individual,Brockett,Actual,5
+Driving Superior Dealer Operations,7,Individual,Egan,Actual,2
+Driving Superior Dealer Operations,7,Individual,Fawcett,Actual,10
+Driving Superior Dealer Operations,7,Individual,Funk,Actual,5
+Driving Superior Dealer Operations,7,Individual,Holm,Actual,3
+Driving Superior Dealer Operations,7,Individual,O'Connell,Actual,15
+Driving Superior Dealer Operations,7,Individual,Ryan,Actual,12
+Driving Superior Dealer Operations,7,Individual,Wernsman,Actual,10
+Driving Superior Dealer Operations,7,Individual,Westbrook,Actual,7
+Driving Superior Dealer Operations,7,Individual,Williamson,Actual,15
+Driving Dealer Performance,8,Aggregation,Overall,Ideal,15.4442
+Driving Dealer Performance,8,Aggregation,Leadership,Ideal,14.54805
+Driving Dealer Performance,8,Aggregation,Regions,Ideal,8.36048
+Driving Dealer Performance,8,Aggregation,Districts,Ideal,16.99157
+Driving Dealer Performance,8,Aggregation,East,Ideal,18.66141
+Driving Dealer Performance,8,Aggregation,West,Ideal,15.14721
+Driving Dealer Performance,8,Aggregation,Districts,Actual,13.07692308
+Driving Dealer Performance,8,Aggregation,East,Actual,14.71428571
+Driving Dealer Performance,8,Aggregation,West,Actual,11.4
+Driving Dealer Performance,8,Individual,Bales,Ideal,14.44221
+Driving Dealer Performance,8,Individual,Becker,Ideal,7.12541
+Driving Dealer Performance,8,Individual,Bejjani,Ideal,17.74242
+Driving Dealer Performance,8,Individual,Brandt,Ideal,18.0361
+Driving Dealer Performance,8,Individual,Brockett,Ideal,0.88639
+Driving Dealer Performance,8,Individual,Drugmand,Ideal,18.63771
+Driving Dealer Performance,8,Individual,Egan,Ideal,22.77281
+Driving Dealer Performance,8,Individual,Fawcett,Ideal,10.41694
+Driving Dealer Performance,8,Individual,Funk,Ideal,20.35322
+Driving Dealer Performance,8,Individual,Holm,Ideal,17.12459
+Driving Dealer Performance,8,Individual,Knipfer,Ideal,11.65695
+Driving Dealer Performance,8,Individual,O'Connell,Ideal,19.34153
+Driving Dealer Performance,8,Individual,Reynolds,Ideal,13.29684
+Driving Dealer Performance,8,Individual,Ross,Ideal,13.99876
+Driving Dealer Performance,8,Individual,Ryan,Ideal,15.39371
+Driving Dealer Performance,8,Individual,Wernsman,Ideal,21.44518
+Driving Dealer Performance,8,Individual,Westbrook,Ideal,19.56359
+Driving Dealer Performance,8,Individual,Williamson,Ideal,21.6152
+Driving Dealer Performance,8,Individual,Bales,Actual,8
+Driving Dealer Performance,8,Individual,Bejjani,Actual,10
+Driving Dealer Performance,8,Individual,Brandt,Actual,10
+Driving Dealer Performance,8,Individual,Brockett,Actual,10
+Driving Dealer Performance,8,Individual,Egan,Actual,15
+Driving Dealer Performance,8,Individual,Fawcett,Actual,10
+Driving Dealer Performance,8,Individual,Funk,Actual,20
+Driving Dealer Performance,8,Individual,Holm,Actual,15
+Driving Dealer Performance,8,Individual,O'Connell,Actual,15
+Driving Dealer Performance,8,Individual,Ryan,Actual,12
+Driving Dealer Performance,8,Individual,Wernsman,Actual,25
+Driving Dealer Performance,8,Individual,Westbrook,Actual,10
+Driving Dealer Performance,8,Individual,Williamson,Actual,10
+Enforcing and Administering Policy,9,Aggregation,Overall,Ideal,2.26907
+Enforcing and Administering Policy,9,Aggregation,Leadership,Ideal,0.21513
+Enforcing and Administering Policy,9,Aggregation,Regions,Ideal,0.82669
+Enforcing and Administering Policy,9,Aggregation,Districts,Ideal,2.60465
+Enforcing and Administering Policy,9,Aggregation,East,Ideal,1.21807
+Enforcing and Administering Policy,9,Aggregation,West,Ideal,4.45325
+Enforcing and Administering Policy,9,Aggregation,Districts,Actual,7.461538462
+Enforcing and Administering Policy,9,Aggregation,East,Actual,7.142857143
+Enforcing and Administering Policy,9,Aggregation,West,Actual,9.2
+Enforcing and Administering Policy,9,Individual,Bales,Ideal,5.74732
+Enforcing and Administering Policy,9,Individual,Becker,Ideal,0.07541
+Enforcing and Administering Policy,9,Individual,Bejjani,Ideal,0.08329
+Enforcing and Administering Policy,9,Individual,Brandt,Ideal,5.344
+Enforcing and Administering Policy,9,Individual,Brockett,Ideal,14.69348
+Enforcing and Administering Policy,9,Individual,Drugmand,Ideal,0.45904
+Enforcing and Administering Policy,9,Individual,Egan,Ideal,0.05741
+Enforcing and Administering Policy,9,Individual,Fawcett,Ideal,0.07776
+Enforcing and Administering Policy,9,Individual,Funk,Ideal,0.0783
+Enforcing and Administering Policy,9,Individual,Holm,Ideal,4.85306
+Enforcing and Administering Policy,9,Individual,Knipfer,Ideal,0.05564
+Enforcing and Administering Policy,9,Individual,O'Connell,Ideal,0.1028
+Enforcing and Administering Policy,9,Individual,Reynolds,Ideal,3.63363
+Enforcing and Administering Policy,9,Individual,Ross,Ideal,0.91546
+Enforcing and Administering Policy,9,Individual,Ryan,Ideal,1.90787
+Enforcing and Administering Policy,9,Individual,Wernsman,Ideal,0.05644
+Enforcing and Administering Policy,9,Individual,Westbrook,Ideal,1.36447
+Enforcing and Administering Policy,9,Individual,Williamson,Ideal,0.45296
+Enforcing and Administering Policy,9,Individual,Bales,Actual,12
+Enforcing and Administering Policy,9,Individual,Bejjani,Actual,5
+Enforcing and Administering Policy,9,Individual,Brandt,Actual,5
+Enforcing and Administering Policy,9,Individual,Brockett,Actual,5
+Enforcing and Administering Policy,9,Individual,Egan,Actual,5
+Enforcing and Administering Policy,9,Individual,Fawcett,Actual,5
+Enforcing and Administering Policy,9,Individual,Funk,Actual,10
+Enforcing and Administering Policy,9,Individual,Holm,Actual,8
+Enforcing and Administering Policy,9,Individual,O'Connell,Actual,10
+Enforcing and Administering Policy,9,Individual,Ryan,Actual,16
+Enforcing and Administering Policy,9,Individual,Wernsman,Actual,5
+Enforcing and Administering Policy,9,Individual,Westbrook,Actual,1
+Enforcing and Administering Policy,9,Individual,Williamson,Actual,10
+Ensuring Customer Retention,10,Aggregation,Overall,Ideal,3.56213
+Ensuring Customer Retention,10,Aggregation,Leadership,Ideal,0.50597
+Ensuring Customer Retention,10,Aggregation,Regions,Ideal,0.24447
+Ensuring Customer Retention,10,Aggregation,Districts,Ideal,4.72111
+Ensuring Customer Retention,10,Aggregation,East,Ideal,7.91354
+Ensuring Customer Retention,10,Aggregation,West,Ideal,2.0001
+Ensuring Customer Retention,10,Aggregation,Districts,Actual,6.538461538
+Ensuring Customer Retention,10,Aggregation,East,Actual,8
+Ensuring Customer Retention,10,Aggregation,West,Actual,5.6
+Ensuring Customer Retention,10,Individual,Bales,Ideal,0.07651
+Ensuring Customer Retention,10,Individual,Becker,Ideal,0.48068
+Ensuring Customer Retention,10,Individual,Bejjani,Ideal,15.88402
+Ensuring Customer Retention,10,Individual,Brandt,Ideal,2.29764
+Ensuring Customer Retention,10,Individual,Brockett,Ideal,2.47565
+Ensuring Customer Retention,10,Individual,Drugmand,Ideal,0.47547
+Ensuring Customer Retention,10,Individual,Egan,Ideal,22.76855
+Ensuring Customer Retention,10,Individual,Fawcett,Ideal,1.42076
+Ensuring Customer Retention,10,Individual,Funk,Ideal,14.50731
+Ensuring Customer Retention,10,Individual,Holm,Ideal,0.07237
+Ensuring Customer Retention,10,Individual,Knipfer,Ideal,0.53698
+Ensuring Customer Retention,10,Individual,O'Connell,Ideal,1.7643
+Ensuring Customer Retention,10,Individual,Reynolds,Ideal,0.0847
+Ensuring Customer Retention,10,Individual,Ross,Ideal,1.82875
+Ensuring Customer Retention,10,Individual,Ryan,Ideal,0.07714
+Ensuring Customer Retention,10,Individual,Wernsman,Ideal,1.54891
+Ensuring Customer Retention,10,Individual,Westbrook,Ideal,0.10325
+Ensuring Customer Retention,10,Individual,Williamson,Ideal,11.60437
+Ensuring Customer Retention,10,Individual,Bales,Actual,3
+Ensuring Customer Retention,10,Individual,Bejjani,Actual,10
+Ensuring Customer Retention,10,Individual,Brandt,Actual,5
+Ensuring Customer Retention,10,Individual,Brockett,Actual,5
+Ensuring Customer Retention,10,Individual,Egan,Actual,25
+Ensuring Customer Retention,10,Individual,Fawcett,Actual,7
+Ensuring Customer Retention,10,Individual,Funk,Actual,5
+Ensuring Customer Retention,10,Individual,Holm,Actual,3
+Ensuring Customer Retention,10,Individual,O'Connell,Actual,5
+Ensuring Customer Retention,10,Individual,Ryan,Actual,1
+Ensuring Customer Retention,10,Individual,Wernsman,Actual,5
+Ensuring Customer Retention,10,Individual,Westbrook,Actual,1
+Ensuring Customer Retention,10,Individual,Williamson,Actual,10
+Ensuring Dealer Training,11,Aggregation,Overall,Ideal,10.85668
+Ensuring Dealer Training,11,Aggregation,Leadership,Ideal,18.5053
+Ensuring Dealer Training,11,Aggregation,Regions,Ideal,1.59693
+Ensuring Dealer Training,11,Aggregation,Districts,Ideal,10.25727
+Ensuring Dealer Training,11,Aggregation,East,Ideal,9.25258
+Ensuring Dealer Training,11,Aggregation,West,Ideal,11.42794
+Ensuring Dealer Training,11,Aggregation,Districts,Actual,8.538461538
+Ensuring Dealer Training,11,Aggregation,East,Actual,8.714285714
+Ensuring Dealer Training,11,Aggregation,West,Actual,8
+Ensuring Dealer Training,11,Individual,Bales,Ideal,10.59826
+Ensuring Dealer Training,11,Individual,Becker,Ideal,2.27383
+Ensuring Dealer Training,11,Individual,Bejjani,Ideal,0.90572
+Ensuring Dealer Training,11,Individual,Brandt,Ideal,1.66507
+Ensuring Dealer Training,11,Individual,Brockett,Ideal,18.80995
+Ensuring Dealer Training,11,Individual,Drugmand,Ideal,11.23746
+Ensuring Dealer Training,11,Individual,Egan,Ideal,10.5928
+Ensuring Dealer Training,11,Individual,Fawcett,Ideal,22.38611
+Ensuring Dealer Training,11,Individual,Funk,Ideal,13.44947
+Ensuring Dealer Training,11,Individual,Holm,Ideal,15.99977
+Ensuring Dealer Training,11,Individual,Knipfer,Ideal,21.26874
+Ensuring Dealer Training,11,Individual,O'Connell,Ideal,15.91824
+Ensuring Dealer Training,11,Individual,Reynolds,Ideal,2.14397
+Ensuring Dealer Training,11,Individual,Ross,Ideal,22.3588
+Ensuring Dealer Training,11,Individual,Ryan,Ideal,17.04057
+Ensuring Dealer Training,11,Individual,Wernsman,Ideal,6.9876
+Ensuring Dealer Training,11,Individual,Westbrook,Ideal,7.85259
+Ensuring Dealer Training,11,Individual,Williamson,Ideal,0.3007
+Ensuring Dealer Training,11,Individual,Bales,Actual,15
+Ensuring Dealer Training,11,Individual,Bejjani,Actual,5
+Ensuring Dealer Training,11,Individual,Brandt,Actual,5
+Ensuring Dealer Training,11,Individual,Brockett,Actual,10
+Ensuring Dealer Training,11,Individual,Egan,Actual,10
+Ensuring Dealer Training,11,Individual,Fawcett,Actual,15
+Ensuring Dealer Training,11,Individual,Funk,Actual,10
+Ensuring Dealer Training,11,Individual,Holm,Actual,6
+Ensuring Dealer Training,11,Individual,O'Connell,Actual,5
+Ensuring Dealer Training,11,Individual,Ryan,Actual,15
+Ensuring Dealer Training,11,Individual,Wernsman,Actual,5
+Ensuring Dealer Training,11,Individual,Westbrook,Actual,10
+Ensuring Dealer Training,11,Individual,Williamson,Actual,0
