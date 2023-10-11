@@ -44,7 +44,7 @@ def generateChart(df,list_sort):
         alt.Y("Headers:O", title=" ", axis=None, sort=list_sort),
         color = alt.Color('Headers:N',
                           sort=list_sort, 
-                          legend=alt.Legend(title=" ")
+                          legend=alt.Legend(title=" ", direction='horizontal', orient='top')
                           ),
         tooltip = alt.Tooltip('Value:Q'),
     ).properties(height=50,width=1000)
@@ -66,6 +66,45 @@ def generateChart(df,list_sort):
     st.altair_chart(chart, use_container_width=False, theme="streamlit") 
 
 
+def generateChartH(df,list_sort):
+
+    #find category sort order
+    dfs = df[df['Headers'] == list_sort[0]]
+    dfs = dfs.sort_values('Value',ascending=False)
+    
+    cat_sort = dfs['Label'].to_list()
+    #list_sort = list_sort.reverse()
+    
+    df['Value'] = df['Value'].round(1)
+    bars = alt.Chart().mark_bar().encode(
+        alt.Y("Value:Q", title=" "),
+        alt.X("Headers:O", title=" ", axis=None, sort=list_sort),
+        color = alt.Color('Headers:N',
+                          sort=list_sort, 
+                          legend=alt.Legend(title=" ", direction='horizontal', orient='top')
+                          ),
+        tooltip = alt.Tooltip('Value:Q'),
+    ).properties(height=500,width=100)
+    
+    texts = bars.mark_text(
+        align='center',
+        baseline='top',
+        dy=-15  # Nudges text to right so it doesn't appear on top of the bar
+    ).encode(
+        text='Value',
+    )
+        
+    chart = alt.layer(bars, texts, data=df).facet(
+        column=alt.Column('Label:N', header=alt.Header(labelAngle=45, labelAlign='left', titleOrient='bottom', labelOrient='bottom'), sort=cat_sort, title=" "),
+        spacing = 40,
+    )
+    
+    chart = chart.configure_axis(grid=False, domain=False)
+    
+    st.altair_chart(chart, use_container_width=False, theme="streamlit") 
+
+
+#Build out UI
 c1, c2, c3 = st.columns(3)
 
 
@@ -74,6 +113,7 @@ with c1:
     s2x1 = st.selectbox('Include1 Type', getFilterValues(df,'Filter1'), index=None)
     s3x1 = st.selectbox('Include2 Type', getFilterValues(df,'Filter1'), index=None)
     s4x1 = st.selectbox('Include3 Type', getFilterValues(df,'Filter1'), index=None)
+    sdir = st.selectbox('Chart Orientation', ('Vertical','Horizontal'),index=0)
     
 with c2:
     s1x2 = st.selectbox('SortBy Group/Individual', getFilterValues(df,'Filter2',s1x1), index=None)
@@ -117,4 +157,9 @@ else:
     df['Headers'] = df['Filter2'].astype(str) + '-' + df['Filter3'].astype(str)
     df = df[df['Filter'].isin(list_filter)]
     df = df[['Label','Headers','Value']]
-    generateChart(df,list_sort)
+    if sdir == 'Horizontal':
+        generateChartH(df,list_sort)
+    else:
+        generateChart(df,list_sort)
+
+
